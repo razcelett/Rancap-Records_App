@@ -4,7 +4,7 @@
                     </a>
                 </div>
                 <ul class="nav">
-                    <li class="nav-item active">
+                    <li>
                         <a class="nav-link" href="transaction.php">
                             <i class="nc-icon nc-icon nc-paper-2"></i>
                             <p>Transactions</p>
